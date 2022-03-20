@@ -3,7 +3,7 @@ public class Main {
         int priceTicket = 1200;
         int oneBonusMiles = 20;
 
-        int countBonusMiles = (priceTicket/oneBonusMiles);
+        int countBonusMiles = (priceTicket / oneBonusMiles);
         System.out.println("Количество бонусных милль = " + countBonusMiles);
     }
 }
